@@ -18,3 +18,4 @@ Cloud and Cybersecurity enthusiast
     <a href="https://leetcode.com/u/anushkaa__09_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anushkaa__09_" height="30" width="40" /></a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushka-0901&show_icons=true&locale=en&layout=compact" alt="anushka-0901" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushka-0901&show_icons=true&locale=en&layout=compact" alt="anushka-0901" /></p>
