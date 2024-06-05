@@ -13,4 +13,7 @@ Cloud and Cybersecurity enthusiast
     <a href="https://www.linkedin.com/in/anushka-tripathi-0a21171bb/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </a>
+    <a href="https://www.codechef.com/users/anushkaa_09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anushka_09" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/profile/anushkatripathi6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anushkatripathi6" height="30" width="40" /></a>
+    <a href="https://leetcode.com/u/anushkaa__09_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anushkaa__09_" height="30" width="40" /></a>
 </p>
